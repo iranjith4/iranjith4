@@ -2,6 +2,6 @@
 
 This is Ranjith.
 
-Currently working as Lead iOS Developer at RadiusAgent. Worked with startups, mid sized companies in building cool products. Heavy lifting iOS Developer, and have experience in developing 15+ native iOS apps. Sharp detailed designer believes in bringing beautiful products with perfect marriage of design and development. Always believes in learning new things, which always helps in making a better product.
+<div align="center"><iframe src="https://mobiledeveloperscafe.substack.com/embed" width="auto" height="300" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no" margin></iframe></div>
 
 At free time I love to travel around the places, watches Netflix, snaps photos, tweets, travels, plays table tennis and reads medium. An Apple fanatic.
