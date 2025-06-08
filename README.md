@@ -37,7 +37,7 @@ let mySkills = [
 ### 🏆 Random Achievements That Sound Impressive
 
 - 🥇 **Hackathon Winner**: Beat other sleep-deprived developers at Perk.com hackathon
-- 🚀 **Incubation Survivor**: Made it through TATA ELXSI & NASSCOM programs (with sanity mostly intact)
+- 🚀 **Incubation Survivor**: Made it through TATA ELXSI & NASSCOM programs
 - 🌟 **Facebook Start Alumni**: Back when Facebook was just Facebook
 - 🏅 **National Rank Holder**: Unified Cyber Olympiad (yes, I was that kid)
 
