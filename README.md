@@ -28,7 +28,7 @@ let mySkills = [
 - 🛫 **Aviation Enthusiast**: Fascinated by planes and airports (yes, I'm that person who arrives 3 hours early just to plane-spot)
 - 🌍 **Travel Addict**: Always planning the next adventure
 - 🏎️ **F1 Fan**: Watching cars go vroom vroom at 300 km/h (way faster than my build times)
-- 🤿 **Underwater Explorer**: Recently went scuba diving in the Maldives with my wifee (fish are surprisingly good at code reviews)
+- 🤿 **Underwater Explorer**: Recently went scuba diving in the Maldives with my wife (fish are surprisingly good at code reviews)
   
   <img src="https://github.com/user-attachments/assets/ec8ac7e3-36a2-40da-950d-ec9e88a16efc" width="300" alt="Scuba diving in Maldives">
 
